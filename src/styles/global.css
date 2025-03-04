@@ -152,3 +152,12 @@ hr {
 	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
+.foundCSS {
+	color: rgb(230,0,100);
+	font-weight: 600;
+	font-size: 1.5rem;
+}
+.foundCSS:hover {
+	font-size: 2rem;
+	color: rebeccapurple;
+}
